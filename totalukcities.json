@@ -1,0 +1,352 @@
+[
+    {
+        "lng": -3.14186,
+        "Town": "Ale Oak",
+        "Population": 147705,
+        "County": "Shropshire",
+        "lat": 52.45294
+    },
+    {
+        "lng": -1.70179,
+        "Town": "Ailstone",
+        "Population": 25056,
+        "County": "Warwickshire",
+        "lat": 52.15241
+    },
+    {
+        "lng": -0.0305,
+        "Town": "Addington",
+        "Population": 119751,
+        "County": "Greater London (Croydon)",
+        "lat": 51.3583
+    },
+    {
+        "lng": -3.31975,
+        "Town": "Abernethy",
+        "Population": 137413,
+        "County": "Perth and Kinross",
+        "lat": 56.33383
+    },
+    {
+        "lng": -0.62043,
+        "Town": "Airy Hill",
+        "Population": 88609,
+        "County": "North Yorkshire",
+        "lat": 54.47298
+    },
+    {
+        "lng": -1.4791,
+        "Town": "Alderman's Green",
+        "Population": 41929,
+        "County": "West Midlands",
+        "lat": 52.44831
+    },
+    {
+        "lng": -3.13587,
+        "Town": "Abercarn",
+        "Population": 39625,
+        "County": "Caerphilly",
+        "lat": 51.6438
+    },
+    {
+        "lng": -3.85604,
+        "Town": "Achrimsdale",
+        "Population": 129809,
+        "County": "Highland",
+        "lat": 58.03409
+    },
+    {
+        "lng": 1.6019,
+        "Town": "Aldeburgh",
+        "Population": 128731,
+        "County": "Suffolk",
+        "lat": 52.15172
+    },
+    {
+        "lng": -6.56695,
+        "Town": "Acha MÃƒÂ²r",
+        "Population": 93568,
+        "County": "Na h-Eileanan an Iar",
+        "lat": 58.16346
+    },
+    {
+        "lng": 0.13565,
+        "Town": "Alciston",
+        "Population": 102100,
+        "County": "East Sussex",
+        "lat": 50.82948
+    },
+    {
+        "lng": -1.37798,
+        "Town": "Aith",
+        "Population": 69434,
+        "County": "Shetland Islands",
+        "lat": 60.28222
+    },
+    {
+        "lng": -3.16612,
+        "Town": "Aley",
+        "Population": 67374,
+        "County": "Somerset",
+        "lat": 51.13096
+    },
+    {
+        "lng": -0.92601,
+        "Town": "Ab Kettleby",
+        "Population": 135151,
+        "County": "Leicestershire",
+        "lat": 52.80419
+    },
+    {
+        "lng": -1.47928,
+        "Town": "Agbrigg",
+        "Population": 106989,
+        "County": "West Yorkshire",
+        "lat": 53.67084
+    },
+    {
+        "lng": -3.03668,
+        "Town": "Ainsdale",
+        "Population": 135650,
+        "County": "Merseyside",
+        "lat": 53.60456
+    },
+    {
+        "lng": -2.80053,
+        "Town": "Aldersey Green",
+        "Population": 79771,
+        "County": "Cheshire",
+        "lat": 53.103
+    },
+    {
+        "lng": -3.05199,
+        "Town": "Afon Eitha",
+        "Population": 116989,
+        "County": "Wrexham",
+        "lat": 53.00216
+    },
+    {
+        "lng": -3.47842,
+        "Town": "Aberbran",
+        "Population": 54753,
+        "County": "Powys",
+        "lat": 51.95469
+    },
+    {
+        "lng": -1.53124,
+        "Town": "Alderwasley",
+        "Population": 74132,
+        "County": "Derbyshire",
+        "lat": 53.0778
+    },
+    {
+        "lng": -5.54828,
+        "Town": "Achahoish",
+        "Population": 61175,
+        "County": "Argyll and Bute",
+        "lat": 55.93936
+    },
+    {
+        "lng": -2.97872,
+        "Town": "Acton",
+        "Population": 160446,
+        "County": "Wrexham",
+        "lat": 53.05672
+    },
+    {
+        "lng": -0.20928,
+        "Town": "Abbotsley",
+        "Population": 20793,
+        "County": "Cambridgeshire",
+        "lat": 52.19314
+    },
+    {
+        "lng": -3.17467,
+        "Town": "Acharn",
+        "Population": 116348,
+        "County": "Angus",
+        "lat": 56.87436
+    },
+    {
+        "lng": 0.17965,
+        "Town": "Alford",
+        "Population": 102986,
+        "County": "Lincolnshire",
+        "lat": 53.25656
+    },
+    {
+        "lng": -2.1281,
+        "Town": "Adderley Green",
+        "Population": 101202,
+        "County": "Staffordshire",
+        "lat": 52.99775
+    },
+    {
+        "lng": -3.32677,
+        "Town": "Aifft",
+        "Population": 109730,
+        "County": "Denbighshire",
+        "lat": 53.21516
+    },
+    {
+        "lng": -0.72208,
+        "Town": "Adlingfleet",
+        "Population": 106516,
+        "County": "East Riding Of Yorkshire",
+        "lat": 53.68314
+    },
+    {
+        "lng": -2.75872,
+        "Town": "Addinston",
+        "Population": 156193,
+        "County": "Scottish Borders",
+        "lat": 55.77249
+    },
+    {
+        "lng": -3.45108,
+        "Town": "Achalone",
+        "Population": 139507,
+        "County": "Highland",
+        "lat": 58.48848
+    },
+    {
+        "lng": -1.97949,
+        "Town": "Ab Lench",
+        "Population": 63705,
+        "County": "Worcestershire",
+        "lat": 52.16177
+    },
+    {
+        "lng": -3.0669,
+        "Town": "Ainsdale-on-Sea",
+        "Population": 94443,
+        "County": "Merseyside",
+        "lat": 53.6043
+    },
+    {
+        "lng": -4.78428,
+        "Town": "Achluachrach",
+        "Population": 124904,
+        "County": "Highland",
+        "lat": 56.89378
+    },
+    {
+        "lng": -3.56618,
+        "Town": "Abergarw",
+        "Population": 24574,
+        "County": "Bridgend",
+        "lat": 51.54893
+    },
+    {
+        "lng": -3.86771,
+        "Town": "Aberfeldy",
+        "Population": 86208,
+        "County": "Perth and Kinross",
+        "lat": 56.62331
+    },
+    {
+        "lng": -1.20164,
+        "Town": "Aldworth",
+        "Population": 140138,
+        "County": "Berkshire",
+        "lat": 51.51171
+    },
+    {
+        "lng": -3.4316,
+        "Town": "Abertridwr",
+        "Population": 20234,
+        "County": "Powys",
+        "lat": 52.76445
+    },
+    {
+        "lng": -3.22402,
+        "Town": "Aberbargoed/Aberbargod",
+        "Population": 87766,
+        "County": "Caerphilly",
+        "lat": 51.69686
+    },
+    {
+        "lng": -5.48742,
+        "Town": "Achnacroish",
+        "Population": 130467,
+        "County": "Argyll and Bute",
+        "lat": 56.50751
+    },
+    {
+        "lng": -4.26409,
+        "Town": "Aberaeron",
+        "Population": 113603,
+        "County": "Ceredigion",
+        "lat": 52.23895
+    },
+    {
+        "lng": -1.34054,
+        "Town": "Aberford",
+        "Population": 142334,
+        "County": "West Yorkshire",
+        "lat": 53.83195
+    },
+    {
+        "lng": -2.23931,
+        "Town": "Alderton",
+        "Population": 126713,
+        "County": "Wiltshire",
+        "lat": 51.54115
+    },
+    {
+        "lng": -3.08134,
+        "Town": "Acrefair",
+        "Population": 38927,
+        "County": "Wrexham",
+        "lat": 52.98392
+    },
+    {
+        "lng": -3.16277,
+        "Town": "Abbeyhill",
+        "Population": 160691,
+        "County": "City of Edinburgh",
+        "lat": 55.95803
+    },
+    {
+        "lng": -4.40556,
+        "Town": "Abriachan",
+        "Population": 95815,
+        "County": "Highland",
+        "lat": 57.38691
+    },
+    {
+        "lng": -2.22568,
+        "Town": "Affleck",
+        "Population": 130017,
+        "County": "Aberdeenshire",
+        "lat": 57.30189
+    },
+    {
+        "lng": -1.77666,
+        "Town": "Aldsworth",
+        "Population": 107833,
+        "County": "Gloucestershire",
+        "lat": 51.79294
+    },
+    {
+        "lng": -4.67969,
+        "Town": "Albro Castle",
+        "Population": 143447,
+        "County": "Ceredigion",
+        "lat": 52.08635
+    },
+    {
+        "lng": 1.55313,
+        "Town": "Acle",
+        "Population": 131369,
+        "County": "Norfolk",
+        "lat": 52.6389
+    },
+    {
+        "lng": -1.37307,
+        "Town": "Ackton",
+        "Population": 119694,
+        "County": "West Yorkshire",
+        "lat": 53.68831
+    }
+]
